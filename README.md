@@ -1,3 +1,3 @@
 # Fergun
 
-Soon
+A Discord bot
